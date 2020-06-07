@@ -1,6 +1,6 @@
 {
   "name": "@rkumar1904/util-engine",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "util package",
   "main": "index.js",
   "scripts": {
