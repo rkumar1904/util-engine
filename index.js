@@ -1,3 +1,3 @@
-module.exports = function () {
+module.exports = testing = () => {
   console.log('Github package testing ✅🚀 👨🏻‍💻');
 }
